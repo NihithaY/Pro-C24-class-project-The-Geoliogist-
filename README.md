@@ -1,1 +1,2 @@
-# Pro-C24-class-project-The-Geoliogist-
+# Geologist
+Geologist Project
